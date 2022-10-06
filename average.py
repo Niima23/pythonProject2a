@@ -1,3 +1,6 @@
+# Author: Amiin Samatar
+# GitHub username: Niima23
+# Date: 9/26/2022
 # Python find average of five numbers
 
 # take inputs
